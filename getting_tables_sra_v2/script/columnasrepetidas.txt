@@ -1,0 +1,3 @@
+Sample* - Sample Accession
+BioSample* - sample_accession
+SRAStudy* - secondary_study_accession - Study Accession
